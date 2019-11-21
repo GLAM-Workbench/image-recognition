@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3549628.svg)](https://doi.org/10.5281/zenodo.3549628)
+
 # Image Recognition with Tensorflow
 
 Jupyter notebooks experimenting with image recognition using Tensorflow.
